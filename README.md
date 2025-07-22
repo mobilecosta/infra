@@ -14,7 +14,10 @@ Rest - https://api.conceitho.com/api/protheus/
 
 ## Roteamento
 ## 1) DuckDns
+
 mobilecostaaws.duckdns.org
+
+https://homeassistantbrasil.com.br/t/acesso-externo-direto-https-acesso-interno-http-duck-dns-nginx/4809
 
 ## DynDns
 http://protheusawsmobile.ddns.net/
