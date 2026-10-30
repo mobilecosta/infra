@@ -31,3 +31,5 @@ Windows 10 acabou o suporte e a Microsoft está dando mais 1 ano de suporte para
 https://linuxeasymod.blogspot.com/.../passos-para-montar...)
 
 ## 6) Rede - https://www.torproject.org/download/
+
+## 7) LINUX - https://sururu.kurumintecnologia.com.br/
